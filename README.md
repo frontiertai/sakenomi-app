@@ -1,4 +1,9 @@
-URL: sakenomi-7bs773ghr-frontiertais-projects.vercel.app
 
+## 酒飲みアプリのURL
+
+
+```bash
+sakenomi-app.vercel.app
+```
 
 
